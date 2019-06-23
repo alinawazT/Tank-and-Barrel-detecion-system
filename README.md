@@ -1,1 +1,2 @@
 # Tank-and-Barrel-detecion-system
+In this project our aim is to use gun camera and detect barrel and other tanks. We all know that when tank lift his barrel up it comes in front of gun camera so our system should able to detect barrel and recognize it as barrel and also able to detect other tank near them. We used machine learning and deep learning approach for our project and use python as our programming tool.
